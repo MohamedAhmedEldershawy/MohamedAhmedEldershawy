@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Ahmed Eldershawy! 👋
+### 👨‍💻 Front-End Developer | Software Engineering Graduate
 
-<!--
-**MohamedAhmedEldershawy/MohamedAhmedEldershawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on building clean, responsive, and user-friendly web interfaces through real-world projects and continuous learning.
 
-Here are some ideas to get you started:
+## 🎓 Education
+* **BSc in Software Engineering** – Ahram Canadian University (Class of 2025 | Very Good)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+**HTML5 • CSS3 • Flexbox • Responsive Web Design • Git • GitHub**
+
+## 🚀 Featured Projects
+* 🛍️ **ModeHaus E-commerce** – Responsive front-end built with HTML5, CSS3, and Flexbox.
+* 💻 **Fashion Store Web Design** – Modern responsive UI implementation with a focus on user experience.
+* 🎓 **Front-End Graduation Project** – Designed and developed a complete web interface following best practices.
+
+## 📫 Connect With Me
+* **LinkedIn:** [Mohamed Ahmed Eldershawy](https://www.linkedin.com/in/mohamed-ahmed-eldershawy-4952b1299)
